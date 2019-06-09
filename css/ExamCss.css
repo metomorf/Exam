@@ -1,0 +1,613 @@
+.row{
+	margin-bottom: 20px;
+}
+.headP{
+	background-image: url(../img/1.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center top;
+	padding-bottom: 210px;
+}
+.Hea{
+	margin-top: 40px;
+}
+.URLAUBSGLÜCK{
+	font-size: 20px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	line-height: 1.2;
+	text-align: center;
+	font-weight: bold;
+}
+.margH1{
+	margin-top: 5px;
+}
+.LogIn{
+	font-size: 14px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.2;
+	font-weight: bold;
+}
+.SignUp{
+	background-color: rgba(26,25,21,0);
+	border-radius: 25px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	font-size: 14px;
+	line-height: 1.2;
+	font-weight: bold;
+}
+.Hea2{
+	margin-top: 120px;
+}
+.Share{
+	font-size: 52px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	line-height: 1.2;
+	text-align: center;
+	font-weight: bold;
+}
+.And{
+	font-size: 31px;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	text-align: center;
+
+}
+.Find{
+	background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 25px;
+	text-align: center;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	font-weight: bold;
+	display: block;
+	margin: 0 auto;
+}
+h2{
+	font-size: 22px;
+	font-family: "Montserrat";
+	text-align: center;
+	font-weight: bold;
+	margin-top: 50px;
+}
+.Gr1{
+	background-image: url(../img/Group1.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center;
+}
+.Gr2{
+	background-image: url(../img/Group2.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center;
+}
+.Gr3{
+	background-image: url(../img/Group3.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center;
+}
+.Step{
+	margin-top: 200px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	letter-spacing: 0.2em;
+	text-align: center;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	left: 10%;
+	/*margin: 100 100;*/
+}
+.Step2{
+	margin-top: 240px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 0.2em;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	display: flex;
+	left: 10%;
+}
+.L2Head{
+	font-size: 24px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+	margin-right: 40%;
+}
+.L2Head2{
+	font-size: 24px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+	margin-right: 33%;
+}
+.L2Intro{
+	font-size: 15px;
+	font-family: "Roboto";
+	color: rgb(204, 204, 204);
+	margin-left: 30px;
+}
+.L3Av1{
+	background-image: url(../img/Ava1.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center top;
+}
+.L3Av2{
+	background-image: url(../img/Ava2.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center top;
+}
+.L3Av3{
+	background-image: url(../img/Ava3.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center top;
+}
+.L3Av4{
+	background-image: url(../img/Ava4.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center top;
+}
+.icon{
+	display: block;
+	margin: 80px auto;
+	margin-bottom: 10px;
+	margin-right: 25%;
+	border-radius: 25px;
+}
+.L3Name{
+	font-size: 14px;
+	font-family: "Montserrat";
+	color: rgb(51, 51, 51);
+	text-align: center;
+	font-weight: bold;
+}
+.L3Intro{
+	font-size: 14px;
+	font-family: "Roboto";
+	color: rgb(102, 102, 102);
+	text-align: center;
+}
+.See{
+    background-color: #FFFFFF;
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 20px;
+	text-align: center;
+	font-family: "Montserrat";
+	color: rgb(255, 78, 80);
+	display: block;
+	margin: 0 auto;
+}
+.L4Fon1{
+	background-image: url(../img/Fon1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 95%;
+}
+.L4Fon2{
+	background-image: url(../img/Fon2.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 95%;
+}
+.L4Fon3{
+	background-image: url(../img/Fon3.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 95%;
+}
+.L4Fon4{
+	background-image: url(../img/Fon4.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 95%;
+}
+.L4Fon5{
+	background-image: url(../img/Fon5.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 97%;
+}
+.L4Fon6{
+	background-image: url(../img/Fon6.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 97%;
+}
+.L4Fon7{
+	background-image: url(../img/Fon7.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 95%;
+}
+.L4Title{
+	font-size: 24px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 46%;
+    padding-bottom: 46%;
+}
+.L4Title2{
+	font-size: 24px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 22%;
+    padding-bottom: 22%;
+}
+.Hi{
+	font-size: 18px;
+	font-family: "Roboto";
+	color: rgb(51, 51, 51);
+	text-align: center;
+}
+.Enter{
+	font-size: 14px;
+	font-family: "Roboto";
+	color: rgb(153, 153, 153);
+	text-align: center;
+}
+.Search{
+	background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 14px;
+	text-align: center;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	font-weight: bold;
+}
+hr{
+	background-color: rgb(255, 78, 80);
+	height: 4px;
+}
+.F1{
+	font-size: 16px;
+	font-family: "Montserrat";
+	color: rgb(255, 78, 80);
+	font-weight: bold;
+	text-align: center;
+}
+.F2{
+	font-size: 14px;
+	font-family: "Montserrat";
+	color: rgb(51, 51, 51);
+	font-weight: bold;
+	text-align: left;
+}
+.F3{
+	font-size: 12px;
+	font-family: "Roboto";
+	color: rgb(102, 102, 102);
+	text-align: left;
+	line-height: 0.4;
+}
+@media screen and (max-width: 375px){
+	.LogIn{
+	font-size: 14px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.2;
+	font-weight: bold;
+	margin-left: 65px;
+    }
+    .Step{
+	margin-top: 200px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	letter-spacing: 0.2em;
+	text-align: center;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	left: 14%;
+	}
+	.Step2{
+	margin-top: 240px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 0.2em;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	display: flex;
+	left: 14%;
+	}
+	.L2Head {
+    font-size: 24px;
+    font-family: "Montserrat";
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 34%;
+	}
+	.L2Head2 {
+    font-size: 24px;
+    font-family: "Montserrat";
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 27%;
+	}
+	.L2Intro{
+	font-size: 15px;
+	font-family: "Roboto";
+	color: rgb(204, 204, 204);
+	margin-left: 30px;	
+	}
+	.icon{
+	display: block;
+	margin: 80px auto;
+	margin-bottom: 10px;
+	margin-right: 25%;
+	border-radius: 25px;
+	margin-right: 110px;
+	}
+	.L4Fon2{
+	background-image: url(../img/Fon2.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center;
+	background-size: 95%;
+	padding-top: 20px;	
+	}
+}
+@media screen and (min-width: 425px){
+	.LogIn{
+	font-size: 14px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.2;
+	font-weight: bold;
+	margin-left: 90px;
+    }
+    .Step{
+	margin-top: 200px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	letter-spacing: 0.2em;
+	text-align: center;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	left: 14%;
+	}
+	.Step2{
+	margin-top: 240px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 0.2em;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	display: flex;
+	left: 14%;
+	}
+	.L2Head {
+    font-size: 24px;
+    font-family: "Montserrat";
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 34%;
+	}
+	.L2Head2 {
+    font-size: 24px;
+    font-family: "Montserrat";
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 27%;
+	}
+	.L2Intro{
+	font-size: 15px;
+	font-family: "Roboto";
+	color: rgb(204, 204, 204);
+	margin-left: 60px;	
+	}
+	.icon{
+	display: block;
+	margin: 80px auto;
+	margin-bottom: 10px;
+	margin-right: 25%;
+	border-radius: 25px;
+	margin-right: 135px;
+	}
+	.L4Fon2{
+	background-image: url(../img/Fon2.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center;
+	background-size: 95%;
+	padding-top: 20px;	
+	}
+}
+@media screen and (min-width: 768px){
+	.LogIn{
+	font-size: 14px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.2;
+	font-weight: bold;
+	margin-left: 235px;
+    }
+    .Step{
+	margin-top: 200px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	letter-spacing: 0.2em;
+	text-align: center;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	left: 29%;
+	}
+	.Step2{
+	margin-top: 240px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 0.2em;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	display: flex;
+	left: 29%;
+	}
+	.L2Head {
+    font-size: 24px;
+    font-family: "Montserrat";
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 21%;
+	}
+	.L2Head2 {
+    font-size: 24px;
+    font-family: "Montserrat";
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 16%;
+	}
+	.L2Intro{
+	font-size: 15px;
+	font-family: "Roboto";
+	color: rgb(204, 204, 204);
+	margin-left: 200px;	
+	}
+	.icon{
+	display: block;
+	margin: 80px auto;
+	margin-bottom: 10px;
+	margin-right: 25%;
+	border-radius: 25px;
+	margin-right: 280px;
+	}
+	.L4Fon2{
+	background-image: url(../img/Fon2.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center;
+	background-size: 95%;
+	padding-top: 20px;	
+	}
+}
+@media screen and (min-width: 1024px){
+	.LogIn{
+	font-size: 14px;
+	font-family: "Montserrat";
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.2;
+	font-weight: bold;
+	margin-left: 0px;
+}
+    .Step{
+	margin-top: 200px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	letter-spacing: 0.2em;
+	text-align: center;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	left: 0;
+	}
+	.Step2{
+	margin-top: 240px;
+    background-color: rgba(255, 78, 80);
+	border-radius: 20px;
+	border-color: rgba(255, 78, 80);
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 0.2em;
+	font-family: "Roboto";
+	color: #FFFFFF;
+	position: relative;
+	display: flex;
+	left: 0;
+	}
+	.L2Head {
+    font-size: 24px;
+    font-family: "Montserrat";
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 50%;
+	}
+	.L2Head2 {
+    font-size: 24px;
+    font-family: "Montserrat";
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 40%;
+	}
+	.L2Intro{
+	font-size: 15px;
+	font-family: "Roboto";
+	color: rgb(204, 204, 204);
+	margin-left: 0;	
+	}	
+	.icon{
+	display: block;
+	margin: 80px auto;
+	margin-bottom: 10px;
+	margin-right: 25%;
+	border-radius: 25px;
+	margin-right: 40px;
+	}
+	.L4Fon2{
+	background-image: url(../img/Fon2.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center;
+	background-size: 95%;
+	padding-top: 20px;	
+	}
+
+}
